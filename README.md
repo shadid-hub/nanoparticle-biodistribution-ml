@@ -2,6 +2,11 @@
 
 BSc Computer Science final-year project, Cardiff University.
 
+> **Note on code availability:** Source code is on local infrastructure
+> (PC currently unavailable) and can be made available on request. The
+> dissertation report (`Final_Report.pdf`) documents the full system
+> architecture, methods, results, and limitations.
+> 
 ## What this is
 
 An ensemble ML pipeline (SciBERT text embeddings + neural network + XGBoost)
