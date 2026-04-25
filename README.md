@@ -6,9 +6,9 @@ BSc Computer Science final-year project, Cardiff University.
 > (PC currently unavailable) and can be made available on request. The
 > dissertation report (`Final_Report.pdf`) documents the full system
 > architecture, methods, results, and limitations.
-> The pdf reports includes the key code listings — preprocessing pipeline,
+> The pdf reports includes the key code listings preprocessing pipeline,
 > SciBERT embedding, NN/XGBoost training, ensemble logic, SHAP integration,
->  and the Streamlit interface — alongside the full system architecture,
+>  and the Streamlit interface alongside the full system architecture,
 > methods, results, and limitations.
 ## What this is
 
